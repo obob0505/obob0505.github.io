@@ -1,0 +1,54 @@
+@font-face {
+    font-family:'맑은고딕'
+    src: local('Nanadfadf'),url(afdaf.ttf)
+    woff 웹용폰트
+}
+
+body {
+    font-family: '맑은고딕' ,"나눔고딕";
+}
+
+
+
+.background {
+     background-image: url(background-image.jpg);
+    ackground-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), 
+        url(img/kid.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+
+
+
+.mm {
+    text-align: center;
+}
+
+
+.Icon-size img{
+    width: 200px;
+}
+
+.bz-img{
+    
+width: 100%;
+    margin-bottom: 30px;
+    
+}
+
+
+.container {
+    
+    margin-top: 100px;
+}
+
+.bz-img {
+
+}
+
+.shirts-img {
+    
+}
